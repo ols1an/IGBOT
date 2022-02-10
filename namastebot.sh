@@ -1,7 +1,7 @@
 #!/bin/bash
 # ChoiceBot v1.1
 # Coded by: @namaste abhi (Don't change!)
-# Github: www.github.com/thelinuxchoice/choicebot
+# Github: https://github.com/ols1an/IGBOT
 # Instagram: @namasteabhi
 
 trap 'printf "\n";stop;exit 1' 2
